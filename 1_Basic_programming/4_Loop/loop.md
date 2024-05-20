@@ -33,19 +33,19 @@
 
 **[16. Number of Digit](16_number_of_dig.cpp)[(---Alternative)](16_alternative.cpp)**
 
-**[]()**
+**[17. Sum of digit](17_sum_of_all_dig.cpp)**
 
-**[]()**
+**[18. Swap first and last digit](18_swap_first_last_dig.cpp)**
 
-**[]()**
+**[19. Factor of a number](19_factor_num.cpp)**
 
-**[]()**
+**[20. GCD](20_GCD.cpp)**
 
-**[]()**
+**[21. LCM](21_LCM.cpp)**
 
-**[]()**
+**[22. Print all prime number](22.Print_all_prime.cpp)**
 
-**[]()**
+**[23. Armstrong Number Check]()**
 
 **[]()**
 
