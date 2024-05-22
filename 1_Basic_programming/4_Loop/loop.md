@@ -45,13 +45,13 @@
 
 **[22. Print all prime number](22.Print_all_prime.cpp)**
 
-**[23. Armstrong Number Check]()**
+**[23. Armstrong Number Check](23.ArmstrongNumber.cpp)**
 
-**[]()**
+**[24. Print all Armstrong Number in 1 to N](24_Print_all_armstrong.cpp)**
 
-**[]()**
+**[25. Perfect Number check](25_perfect_number.cpp)**
 
-**[]()**
+**[26. Print all Prefect Number in 1 to N]()**
 
 **[]()**
 
