@@ -181,7 +181,7 @@
 
 <img src="img/43.png">
 
-- **[44](44.cpp)**
+- **[44](44.cpp)**  [In]
 
 <img src="img/44.png">
 
@@ -209,7 +209,7 @@
 
 <img src="img/50.png">
 
-- **[51](51.cpp)**   [In]
+- **[51](51.cpp)**  
 
 <img src="img/51.png">
 

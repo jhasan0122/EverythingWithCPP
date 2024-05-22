@@ -6,12 +6,12 @@ int main(){
     int n;
     cin>>n;
     for (int i = 0; i < n; ++i) {
-        for (int j = 0; j <= i ; ++j) {
-            if(i%2==0){
-                cout<<1+(j*2);
+        for (int j = 0; j < 2*i +1; ++j) {
+            if(j<=i){
+                cout<<2 + 2*j;
             }
             else{
-                cout<<2+(j*2);
+                cout<<2+(2*i) - (2*(j-i));
             }
         }
         cout<<endl;

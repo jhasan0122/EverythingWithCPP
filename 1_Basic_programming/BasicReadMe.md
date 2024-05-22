@@ -13,7 +13,7 @@
 
 - **[5.Star Pattern](5_Star_Pattern/star_pattern.md)**
 
-- **[6.Number Pattern]()**
+- **[6.Number Pattern](6_Number_Pattern/number_pattern.md)**
 
 - **[7.Array]()**
 
