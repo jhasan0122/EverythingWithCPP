@@ -43,7 +43,7 @@
 <img src="img/10.png">1
 
 - **[11](11.cpp)**
-- 
+
 <img src="img/11.png">
 
 
@@ -75,7 +75,7 @@
 
 <img src="img/18.png">
 
-- **[19](19.cpp)**
+- **[19](19.cpp)**   [In]
 
 <img src="img/19.png">
 
@@ -91,17 +91,17 @@
 
 <img src="img/22.png">
 
-- **[23](23.cpp)**   [In]
+- **[23](23.cpp)**   
 
 <img src="img/23.png">
 
 
-- **[24](24.cpp)**
+- **[24](25.cpp)**
 
 <img src="img/24.png">
 
 - **[25](25.cpp)**
-- 
+
 <img src="img/25.png">
 
 
@@ -161,7 +161,7 @@
 <img src="img/38.png">1
 
 - **[39](39.cpp)**
--
+
 <img src="img/39.png">
 
 
