@@ -51,26 +51,13 @@
 
 **[25. Perfect Number check](25_perfect_number.cpp)**
 
-**[26. Print all Prefect Number in 1 to N]()**
+**[26. Print all Prefect Number in 1 to N](26_Print_all_perfect_number.cpp)**
 
-**[]()**
+**[27. Strong Number check](27_strong_number.cpp)**
 
-**[]()**
+**[28. Print all strong number](28_Print_all_Strong_number.cpp)**
 
-**[]()**
+**[29. Reverse of a number](29_reverse_a_number.cpp)**
 
-**[]()**
+**[30. Check Palindrome Number](30_check_a_number_palindrome.cpp)**
 
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
