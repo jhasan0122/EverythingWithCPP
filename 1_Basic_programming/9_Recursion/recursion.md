@@ -8,7 +8,7 @@
 
 [3. Write a recursive program to print the n th Fibonacci number.](3_nth_fibonacci_num.cpp)
 
-[4. Write a recursive program to check if a given string is a palindrome or not (not case sensitive, ignore whitespaces)](4_string_is_palindrome.cpp)
+[4. Write a recursive program to check if a given string is a palindrome or not ](4_string_is_palindrome.cpp)
 
 
 #### Numbers:
@@ -29,18 +29,18 @@
 
 [12. Write a recursive program to find the average of the elements of an array of size n](12_find_average.cpp)
 
-[13. Write a recursive program to print the odd/even numbers of an array of n integers]()
+[13. Write a recursive program to print the odd/even numbers of an array of n integers](13_print_odd_array.cpp)
 
-[14. Write a recursive program to print the prime numbers of an array of n integers]()
+[14. Write a recursive program to print the prime numbers of an array of n integers](14_print_prime_number.cpp)
 
-[15. Write a recursive program to count the odd/even numbers of an array of n integers]()
+[15. Write a recursive program to count the odd/even numbers of an array of n integers](15_count_even.cpp)
 
-[16. Write a recursive program to count the prime numbers of an array of n integers]()
+[16. Write a recursive program to count the prime numbers of an array of n integers](16_count_prime_number.cpp)
 
 #### 2D array:
-[17. Write a recursive program to find the maximum of a 2d array.]()
+[17. Write a recursive program to find the maximum of a 2d array.](17_find_Max_2D_array.cpp)
 
-[18. Write a recursive program to count the prime numbers of a given 2d array.]()
+[18. Write a recursive program to count the prime numbers of a given 2d array.](18_count_prime_in_matrix.cpp)
 
 #### Series:
 [19. Find the sum of the following series up to nth position / Print the following series up to n th position.]()
@@ -56,33 +56,23 @@
     ○ 2 ∗ 3 ∗ 4 + 4 ∗ 5 ∗ 3 + 8 ∗ 7 ∗ 2 + 16 ∗ 9 ∗ 1 + ⋯
 
 #### GCD/LCM:
-[20. Write a recursive program to find the GCD of x and y where x, y are positive integers.
-    (Hint: use Euclid's algorithm. Two ways to solve this.)]()
+[20. Write a recursive program to find the GCD of x and y where x, y are positive integers.](20_GCD.cpp)
 
-[21. Write a recursive program to find the LCM of x and y where x, y are positive integers.
-    (Two ways to solve this)]()
+[21. Write a recursive program to find the LCM of x and y where x, y are positive integers.](21_LCM.cpp)
 
-####Digits
-[22. Write a recursive program to count the number of digits of an integer.]()
+#### Digits
+[22. Write a recursive program to count the number of digits of an integer.](22_count_no_of_dig.cpp)
 
-[23. Write a recursive program to find the sum of digits of an integer.]()
+[23. Write a recursive program to find the sum of digits of an integer.](23_sum_of_the_digit.cpp)
 
 [24. Write a recursive program to check if a given positive integer is a palindrome or not. An
-    integer is a palindrome when it reads the same backward as forward.]()
+    integer is a palindrome when it reads the same backward as forward.](24_palindrome_check_of_num.cpp)
    
 
 #### Subset:
-[25. Write a recursive program to print all subsets of a set of n elements.]()
 
-[26. Write a recursive program to print all subsequences of a string.]()
+[25. Write a recursive program to print all subsets of a set of n elements.](25_all_subset_find.cpp)
 
-    Miscellaneous:
-[27. Write a recursive implementation of binary search in a sorted array.]()
+[26. Write a recursive program to print all subsequences of a string.](26_all_subsequence_of_string.cpp)
 
-[28. Given a set of parentheses check if they are balanced or not using a recursive function.]()
-
-[29. Implement DFS using recursion to traverse a graph.]()
-
-[30. Implement in-order, preorder and postorder traversal of a graph using recursion.]()
-
-[31. Print the path from a node to the root of a binary tree using recursion.]()
+    

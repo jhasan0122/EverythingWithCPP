@@ -19,7 +19,7 @@
 
 - **[8.Function]()**
 
-- **[9.Recursion]()**
+- **[9.Recursion](9_Recursion/recursion.md)**
 
 - **[10.Pointer]()**
 
