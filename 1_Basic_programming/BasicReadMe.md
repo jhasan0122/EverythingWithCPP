@@ -7,7 +7,7 @@
 
 - **[2.Bitwise Manupulation]()**
 
-- **[3.String]()**
+- **[3.String](3_String/string.md)**
 
 - **[4.Loop](4_Loop/loop.md)**
 
@@ -15,7 +15,7 @@
 
 - **[6.Number Pattern](6_Number_Pattern/number_pattern.md)**
 
-- **[7.Array]()**
+- **[7.Array](7_Array/array.md)**
 
 - **[8.Function]()**
 
@@ -23,6 +23,6 @@
 
 - **[10.Pointer]()**
 
-- **[11.File]()**
+- **[11.File](11_File_Handling/file.md)**
 
 - **[12.Structure]()**
