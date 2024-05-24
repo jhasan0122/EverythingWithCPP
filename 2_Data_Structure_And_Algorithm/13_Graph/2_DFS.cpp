@@ -2,6 +2,7 @@
 #include "vector"
 #include "list"
 #include "unordered_map"
+#include "queue"
 
 using namespace std;
 
@@ -34,6 +35,31 @@ public:
     }
 };
 
+void dfs(unordered_map<int,list<int>> &adjList,unordered_map<int,bool> &visited,vector<int> &component,int source){
+    component.push_back(source);
+    visited[source] = true;
+
+    for (auto neighbour:adjList[source]) {
+        if(!visited[neighbour]){
+            dfs(adjList,visited,component,neighbour);
+        }
+    }
+}
+
+vector<vector<int>> DFS(unordered_map<int,list<int>> &adjList){
+    unordered_map<int,bool> visited;
+    vector<vector<int>> visitedSeq;
+    for (auto node :adjList) {
+        if(!visited[node.first]){
+            vector<int> component;
+            dfs(adjList,visited,component,node.first);
+            visitedSeq.push_back(component);
+        }
+    }
+    return visitedSeq;
+
+}
+
 int main(){
     Graph g;
     g.addEdge(0,1, false);
@@ -46,6 +72,13 @@ int main(){
     g.addEdge(3,6, false);
     g.addEdge(6,7, false);
 
-    g.printAdjList();
+    vector<vector<int>> ans = DFS(g.adjList);
+
+    for (auto x :ans) {
+        for (auto y:x) {
+            cout<<y<<" ";
+        }
+        cout<<endl;
+    }
 
 }

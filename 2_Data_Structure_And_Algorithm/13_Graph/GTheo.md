@@ -2,7 +2,7 @@
 
 ## Code Example
 
-- **[Graph Thoery](Graph_Theory.cpp)**
+
 
 <figure>
     <img src="img/images.png" alt="Graph" sizes="500" width="400" height="250" title="Ques 1">
