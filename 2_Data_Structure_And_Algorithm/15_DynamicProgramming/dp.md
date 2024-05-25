@@ -4,9 +4,9 @@
 
  **[Dynamic Programming](DynamicProgramming.cpp)**
 
-1. Fibonacci number (Memorization)   **[-Ques](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
-2. Fibonacci number (Tabulation)
-3. Fibonacci number (space optimization)
+[1. Fibonacci number (Memorization)](1_fibonacci_number_mem.cpp)   **[-Ques](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
+[2. Fibonacci number (Tabulation)](2_fibonacci_number_tab.cpp)
+[3. Fibonacci number (space optimization)](3_fibonacci_number_opt.cpp)
 <hr>
 
 <img src="img/Climbing_Stairs.svg" alt="stair" sizes="500" width="600" height="250">
