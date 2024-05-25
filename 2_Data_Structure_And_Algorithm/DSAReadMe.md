@@ -8,9 +8,9 @@
 
 - **[3.String Algorithm]()**
 
-- **[4.Searching Algorithm]()**
+- **[4.Searching Algorithm](4_Searching/searching.md)**
 
-- **[5.Sorting Algorithm]()**
+- **[5.Sorting Algorithm](5_Sorting/sorting.md)**
 
 - **[6.Linked List](6_LinkedList/LL.md)**
 
