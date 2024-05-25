@@ -121,7 +121,7 @@
 </figure>
 
 
-**[14. Floyd-Warshal All pair Shortest Path](14_FloydWarshalAllPairShortestPath.cpp)**
+**[14. Floyd-Warshal All pair Shortest Path](14_shortest_path_distance_all_pair_FloydWarshal.cpp)**
 <hr>
 
 ### Minimum Spanning Tree
@@ -131,9 +131,9 @@
     <figcaption>weightedGraph 4 (For MST)</figcaption>  
 </figure>
 
-**[15. Minimum Spanning Tree (Prim's Algorithm)](15_MSTbyPrimsAlgo.cpp)**
+**[15. Minimum Spanning Tree (Prim's Algorithm)](15_MST_Prims_algo.cpp)**
 
-**[16. Minimum Spanning Tree (Kruskal Algorithm) (disjoint set)](16_MSTbyKruskalAlgo.cpp)**
+**[16. Minimum Spanning Tree (Kruskal Algorithm) (disjoint set)](16_MST_Kruskal_algo.cpp)**
 <hr>
 
 ### Bridge
@@ -151,7 +151,7 @@
 ### Strongly Connected Components
 
 <figure>
-<img src="img/scc-initial-graph.png" sizes="500" alt="strongConnenctedCompo" width="510" height="204">
+<img src="img/1.png" sizes="500" alt="strongConnenctedCompo" width="510" height="204">
 <figcaption>Graph of Strongly Connected Components</figcaption>
 </figure>
 
