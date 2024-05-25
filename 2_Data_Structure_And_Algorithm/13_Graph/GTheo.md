@@ -36,7 +36,7 @@
 **[5. Check cycle in Directed Graph (DFS)](5_CheckCycleDirected(DFS).cpp)**
 
 
-**[6. Check cycle in Directed Graph (BFS && Kahn's Algorithm)](6_CheckCycle(BFS%20and%20Kahns).cpp)**
+**[6. Check cycle in Directed Graph (BFS && Kahn's Algorithm)](6_CheckCycle(BFS_and_Kahns).cpp)**
 
 <hr>
 
@@ -66,16 +66,21 @@
     <figcaption>Directed Acyclic Graph</figcaption>
 </figure>
 
-**[7. Topological Sort (using DFS) ](7_TopoSort(DFS).cpp)**
+**[7. Topological Sort (using DFS) ](7_topo_sort_DFS.cpp)**
 
-**[8. Topological Sort (Kahn's Algorithm)](8_TopoSort(Kahns%20Algo).cpp)**
+**[8. Topological Sort (Kahn's Algorithm)](8_topo_sort_khans_algo.cpp)**
 <hr>
 
 ### Shortest Path in Graph
 
-**[9. Shortest path in undirected graph (BFS)](9_ShortestPathUnDir(BFS).cpp)**
+<figure>
+<img src="img/gph3.png" alt="undir">
+<figcaption>Undirected Graph</figcaption>
+</figure>
 
-**[10. Shortest path distance in undirected graph](10_ShortestDistanceUnDir(BFS).cpp)**
+**[9. Shortest path in undirected graph (BFS)](9_sortest_path_undirected(BFS).cpp)**
+
+**[10. Shortest distance in undirected graph (BFS)](10_shortest_distance_undirected.cpp)**
 <hr>
 
 <figure>
@@ -83,7 +88,7 @@
     <figcaption>Weighted Directed Acyclic Graph</figcaption>
 </figure>
 
-**[11. Shortest distance form source to all node (weighted DAG)](11_ShortestPathDAG(Single%20Source).cpp)**
+**[11. Shortest distance form source to all node (weighted DAG)](11_shortest_path_DAG_singleSrc.cpp)**
     
 
 
@@ -94,7 +99,7 @@
     <figcaption>Weighted Graph-1</figcaption>
  </figure>   
     
-**[12. Shortest distance form source to all node (weighted) (Dijkstra Algorithm)](12_ShortestPathDijkstra.cpp)**
+**[12. Shortest distance form source to all node (weighted) (Dijkstra Algorithm)](12_shortest_path_single_src_Dijkstra_algo.cpp)**
 <hr>
 
 <figure>
@@ -107,8 +112,14 @@
     <figcaption>Weighted Graph-3 (Negative Cycle)</figcaption>
 </figure>
 
-**[13. Shortest path in weighted graph with negative edge (Bellmon Ford Algorithm)](13_bellmonFordShortestPath.cpp)**
+**[13. Shortest path in weighted graph with negative edge (Bellmon Ford Algorithm)](13_shortest_path_negative_edge_Bellmon_ford.cpp)**
 <hr>
+
+<figure>
+<img src="img/weiGraph4.png" alt="gph">
+
+</figure>
+
 
 **[14. Floyd-Warshal All pair Shortest Path](14_FloydWarshalAllPairShortestPath.cpp)**
 <hr>
@@ -121,6 +132,7 @@
 </figure>
 
 **[15. Minimum Spanning Tree (Prim's Algorithm)](15_MSTbyPrimsAlgo.cpp)**
+
 **[16. Minimum Spanning Tree (Kruskal Algorithm) (disjoint set)](16_MSTbyKruskalAlgo.cpp)**
 <hr>
 
