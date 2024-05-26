@@ -1,48 +1,62 @@
 # Dynamic Programming
 
-## code exaple
+[1. Fibonacci number (Memorization)](1_fibonacci_number_mem.cpp)   **[---Ques](https://leetcode.com/problems/fibonacci-number/submissions/1268169936/)**
 
- **[Dynamic Programming](DynamicProgramming.cpp)**
-
-[1. Fibonacci number (Memorization)](1_fibonacci_number_mem.cpp)   **[-Ques](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
 [2. Fibonacci number (Tabulation)](2_fibonacci_number_tab.cpp)
+
 [3. Fibonacci number (space optimization)](3_fibonacci_number_opt.cpp)
+
 <hr>
 
 <img src="img/Climbing_Stairs.svg" alt="stair" sizes="500" width="600" height="250">
 
-4. Minimum Cost Climbing Stairs (Recursion)   **[-Ques](https://leetcode.com/problems/min-cost-climbing-stairs/)**
-5. Minimum Cost Climbing Stairs (Memorization)
-6. Minimum Cost Climbing Stairs (Tabulation)
-7. Minimum Cost Climbing Stairs (Space optimization)
+[4. Minimum Cost Climbing Stairs (Recursion) ](4_min_cost_climbing_stair_recursion.cpp)  **[---Ques](https://leetcode.com/problems/min-cost-climbing-stairs/)**
+
+[5. Minimum Cost Climbing Stairs (Memorization)](5_min_cost_climbing_stair_mem.cpp)
+
+[6. Minimum Cost Climbing Stairs (Tabulation)](6_min_cost_climbing_stair_Tab.cpp)
+
+[7. Minimum Cost Climbing Stairs (Space optimization)](7_min_cost_climbing_stair_Opt.cpp)
 <hr>
 <img src="img/leetcode-coin-change1.png" alt="coin" sizes="500" width="465" height="316">
 
-8. Minimum Number of Coins (Recursion)     **[-Ques](https://www.codingninjas.com/studio/problems/minimum-elements_3843091?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
-9. Minimum Number of Coins (Memorization)
-10. Minimum Number of Coins (Tabulation)
+[8. Minimum Number of Coins (Recursion) ](8_min_coin_change_rec.cpp)    **[---Ques](https://leetcode.com/problems/coin-change/description/)**
+
+[9. Minimum Number of Coins (Memorization)](9_min_coin_change_mem.cpp)
+
+[10. Minimum Number of Coins (Tabulation)](10_min_coin_change_tab.cpp)
 <hr>
+
 <img src="img/Screenshot-from-2018-08-17-10-20-31.jpg" alt="maxAdj" sizes="500" width="400" height="250">
 
-11. Maximum Sum of Non-Adjacent Elements (Recursion)    **[-Ques](https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
-12. Maximum Sum of Non-Adjacent Elements (Memorization)
-13. Maximum Sum of Non-Adjacent Elements (Tabulation)
-14. Maximum Sum of Non-Adjacent Elements (Space optimization)
+[11. Maximum Sum of Non-Adjacent Elements (Recursion) ](11_max_sum_nonAdjacent_element_rec.cpp)   **[---Ques](https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
+
+[12. Maximum Sum of Non-Adjacent Elements (Memorization)](12_max_sum_nonAdjacent_element_mem.cpp)
+
+[13. Maximum Sum of Non-Adjacent Elements (Tabulation)](13_max_sum_nonAdjacent_element_tab.cpp)
+
+[14. Maximum Sum of Non-Adjacent Elements (Space optimization)](14_max_sum_nonAdjacent_element_opt.cpp)
 <hr>
 
 <img src="img/1_4BZaoFmRoHNfJQfL12AoqQ.png" alt="robbery" sizes="500" width="425" height="122" >
 
-15. House Robbery Problem (Recursion)        **[-Ques](https://www.codingninjas.com/studio/problems/house-robber_839733?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar)**
-16. House Robbery Problem (Memorization)
-17. House Robbery Problem (Tabulation)
-18. House Robbery Problem (Space optimization)
+[15. House Robbery Problem (Recursion) ](15_house_robbery_rec.cpp)       **[-Ques](https://leetcode.com/problems/house-robber/description/)**
+
+[16. House Robbery Problem (Memorization)](16_house_robbery_mem.cpp)
+
+[17. House Robbery Problem (Tabulation)](17_house_robbery_tab.cpp)
+
+[18. House Robbery Problem (Space optimization)](18_house_robbery_opt.cpp)
 
 <hr>
 
-19. Cut Rod into Segments of X, Y, Z (Recursion)      **[-Ques](https://www.codingninjas.com/studio/problems/cut-into-segments_1214651?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
-20. Cut Rod into Segments of X, Y, Z (Memorization)
-21. Cut Rod into Segments of X, Y, Z (Tabulation)
-22. Cut Rod into Segments of X, Y, Z
+[19. Cut Rod into Segments of X, Y, Z (Recursion)]()      **[-Ques](https://www.codingninjas.com/studio/problems/cut-into-segments_1214651?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
+
+[20. Cut Rod into Segments of X, Y, Z (Memorization)]()
+
+[21. Cut Rod into Segments of X, Y, Z (Tabulation)]()
+
+[22. Cut Rod into Segments of X, Y, Z]()
 <hr>
 
 <img src="img/330px-Derangement4.png" alt="dearangement" sizes="500" width="440" height="312">
