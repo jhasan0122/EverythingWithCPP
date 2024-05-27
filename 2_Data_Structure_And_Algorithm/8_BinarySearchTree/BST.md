@@ -1,27 +1,37 @@
-# **Binary Search Tree**
+# Binary Search Tree
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png" alt="BST" width="500">
+<img src="BSTSearch.png" alt="BST" width="500">
 
-## Code Example
-- **[Binary Search Tree](BinarySeachTree.cpp)**
-1. Preorder print
-2. Inorder print
-3. Postorder print
-4. Insert in BST
-5. Search in BST
-6. Minimum of the tree
-7. Maximum of the tree
-8. Delete from BST
-9. Construct BST from Preorder Array
-10. Check BST is valid or not
-11. Build BST from sorted array
-12. Tree Successor
-13. Tree Predecessor
-14. Construct all possible tree between two number
-15. Zig zag traversal
-16. Is two tree are same (Identical)
-17. Largest BST in Binary tree
-18. Restore BST
+[1. Insert in BST](1_Insert_in_BST.cpp)
+
+[2. Search in BST](2_search_in_bst.cpp)
+
+[3. Minimum of the tree](3_min_of_tree.cpp)
+
+[4. Maximum of the tree](4_max_of_tree.cpp)
+
+[5. Delete from BST](5_delete_from_bst.cpp)
+
+[6. Construct BST from Preorder Array](6_buildBSTfromPreorderArray.cpp)
+
+[7. Check BST is valid or not]()
+
+[8. Build BST from sorted array]()
+
+[9. Tree Successor]()
+
+[10. Tree Predecessor]()
+
+[11. Construct all possible tree between two number]()
+
+[12. Zig zag traversal]()
+
+[13. Is two tree are same (Identical)]()
+
+[14. Largest BST in Binary tree]()
+
+[15. Restore BST]()
+
 
 
 

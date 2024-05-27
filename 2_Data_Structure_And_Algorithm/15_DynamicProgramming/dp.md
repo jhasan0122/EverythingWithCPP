@@ -56,7 +56,7 @@
 
 [21. Cut Rod into Segments of X, Y, Z (Tabulation)]()
 
-[22. Cut Rod into Segments of X, Y, Z]()
+
 <hr>
 
 <img src="img/330px-Derangement4.png" alt="dearangement" sizes="500" width="440" height="312">
