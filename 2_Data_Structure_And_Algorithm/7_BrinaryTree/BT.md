@@ -1,33 +1,55 @@
 # **Binary Tree**
 
-<img src="https://www.happycoders.eu/wp-content/uploads/2021/05/binary-tree-example-600x350.png" alt="Binary Tree" width="500" >
+<img src="binary-tree-example-600x350.png" alt="Binary Tree" width="500" >
 
 
-## Code Example
-- **[Binary Tree](BinaryTree.cpp)**
-1. Preorder print of tree
-2. Inorder print of tree
-3. Postorder print of tree
-4. Build tree from preorder and inorder array
-5. Build tree from postorder and inorder array
-6. Count no of nodes
-7. Calculate height of tree
-8. Level order print of tree
-9. Print Kth level
-10. Sum of Kth level
-11. Every node with sum of its subtree
-12. Check the tree is balanced
-13. Check the tree is balanced (with pointer pass)
-14. Right view of the tree
-15. Left view of the tree
-16. Calculate Diameter (maximum distance towards two node)
-17. Calculate Diameter with pointer
-18. Lowest Common Ancestor Finder
-19. Distance between node to root
-20. Distance between two node
-21. Print Kth distance node in subtree 
-22. Find node from tree
-23. Print kth distance nodes
-24. Sum of all nodes of the tree
-25. Flutten Binary Tree
-26. 
+[1. Preorder print of tree](1_preorder_traversal.cpp)
+
+[2. Inorder print of tree](2_inorder_traversal.cpp)
+
+[3. Postorder print of tree](3_postorder_traversal.cpp)
+
+[4. Build tree from preorder and inorder array](4_buid_tree_pre_inorder_array.cpp)
+
+[5. Build tree from postorder and inorder array](5_buid_tree_post_inorder_array.cpp)
+
+[6. Count no of nodes](6_count_node.cpp)
+
+[7. Calculate height of tree](7_height_of_tree.cpp)
+
+[8. Level order print of tree](8_level_order_print.cpp)
+
+[9. Print Kth level](9_print_k_level.cpp)
+
+[10. Sum of Kth level](10_sum_k_level.cpp)
+
+[11. Every node with sum of its subtree](11_sum_of_subTree.cpp)
+
+[12. Check the tree is balanced](12_check_balance.cpp)
+
+[13. Check the tree is balanced (with pointer pass)]()
+
+[14. Right view of the tree](14_right_view_Tree.cpp)
+
+[15. Left view of the tree](15_left_view_Tree.cpp)
+
+[16. Calculate Diameter (maximum distance towards two node)](16_diameter_of_tree.cpp)
+
+[17. Calculate Diameter with pointer]()
+
+[18. Lowest Common Ancestor Finder](18_lowerst_common_ancestor.cpp)
+
+[19. Distance between node to root](19_distance_between_node_to_root.cpp)
+
+[20. Distance between two node](20_distance_between_two_node.cpp)
+
+[21. Print Kth distance node in subtree ]()
+
+[22. Find node from tree]()
+
+[23. Print kth distance nodes]()
+
+[24. Sum of all nodes of the tree]()
+
+[25. Flutten Binary Tree]()
+
