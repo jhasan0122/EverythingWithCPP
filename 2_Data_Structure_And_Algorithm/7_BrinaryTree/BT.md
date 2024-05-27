@@ -27,7 +27,7 @@
 
 [12. Check the tree is balanced](12_check_balance.cpp)
 
-[13. Check the tree is balanced (with pointer pass)]()
+[13. Check the tree is balanced (with pointer pass)](13_check_balance.cpp)
 
 [14. Right view of the tree](14_right_view_Tree.cpp)
 
@@ -35,7 +35,7 @@
 
 [16. Calculate Diameter (maximum distance towards two node)](16_diameter_of_tree.cpp)
 
-[17. Calculate Diameter with pointer]()
+[17. Calculate Diameter with pointer](17_diameter_of_tree_by_otr.cpp)
 
 [18. Lowest Common Ancestor Finder](18_lowerst_common_ancestor.cpp)
 
@@ -43,13 +43,13 @@
 
 [20. Distance between two node](20_distance_between_two_node.cpp)
 
-[21. Print Kth distance node in subtree ]()
+[21. Print Kth distance node in subtree ](21_print_kth_distance_subTree.cpp)
 
-[22. Find node from tree]()
+[22. Find node from tree](22_fiind_node_from_tree.cpp)
 
-[23. Print kth distance nodes]()
+[23. Print kth distance nodes from Base](23_print_kth_distance_from_base.cpp)
 
-[24. Sum of all nodes of the tree]()
+[24. Sum of all nodes of the tree](24_sum_of_all_node.cpp)
 
-[25. Flutten Binary Tree]()
+[25. Flutten Binary Tree](25_Flutten_BT.cpp)
 
