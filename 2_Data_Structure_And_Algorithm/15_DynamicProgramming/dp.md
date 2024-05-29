@@ -141,7 +141,7 @@
 
 [52. Min Score Triangulation of Polygon (Memorization)](52_min_score_triangle_mem.cpp)
 
-[53. Min Score Triangulation of Polygon (Tabulation)]()
+[53. Min Score Triangulation of Polygon (Tabulation)](53_min_score_triangle_tab.cpp)
 <hr>
 <img src="img/ic234-q3-ex3.png" alt="sideJump" sizes="500"  width="400" height="250">
 
