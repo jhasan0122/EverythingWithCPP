@@ -61,64 +61,87 @@
 
 <img src="img/330px-Derangement4.png" alt="dearangement" sizes="500" width="440" height="312">
 
-23. Count derangements (Recursion)  (ith index doesn't stay at ith position --> how may combination?)   **[-Ques](https://www.codingninjas.com/studio/problems/count-derangements_873861?leftPanelTab=0)**
-24. Count derangements (Memorization)
-25. Count derangements (Tabulation)
-26. Count derangements (Space optimization)
+[23. Count derangements (Recursion)](23_count_derangements_rec.cpp)  (ith index doesn't stay at ith position --> how may combination?)   **[-Ques](https://www.codingninjas.com/studio/problems/count-derangements_873861?leftPanelTab=0)**
+
+[24. Count derangements (Memorization)](24_count_derangements_mem.cpp)
+
+[25. Count derangements (Tabulation)](25_count_derangements_tab.cpp)
+
+[26. Count derangements (Space optimization)](26_count_derangements_opt.cpp)
 <hr>
 
 <img src="img/paintfenceex1.png" alt="paintingFence" sizes="500" width="456" height="286">
 
-27. Painting Fence Algorithm (Recursion)      -**[-Ques](https://www.codingninjas.com/studio/problems/ninja-and-the-fence_3210208?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
-28. Painting Fence Algorithm (Memorization)
-29. Painting Fence Algorithm (Tabulation)
-30. Painting Fence Algorithm (Space optimization)
+[27. Painting Fence Algorithm (Recursion)](27_painting_fence_rec.cpp)      -**[-Ques](https://www.codingninjas.com/studio/problems/ninja-and-the-fence_3210208?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
+
+[28. Painting Fence Algorithm (Memorization)](28_painting_fence_mem.cpp)
+
+[29. Painting Fence Algorithm (Tabulation)](29_painting_fence_tab.cpp)
+
+[30. Painting Fence Algorithm (Space optimization)](30_painting_fence_opt.cpp)
 <hr>
 
 <img src="img/Formulated-the-optimization-problem-into-multiple-choice-knapsack-problem.png" alt="knapsack" sizes="500" width="465" height="244">
 
-31. KnapSack Problem (Recursion)   -**[-Ques](https://www.codingninjas.com/studio/problems/0-1-knapsack_920542?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
-32. KnapSack Problem (Memorization)
-33. KnapSack Problem (Tabulation)
-34. KnapSack Problem (Space optimization - two vector)
-35. KnapSack Problem (More Space optimization - one vector)
+[31. KnapSack Problem (Recursion)](31_knapsack_problem_rec.cpp)  -**[-Ques](https://www.codingninjas.com/studio/problems/0-1-knapsack_920542?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)**
+
+[32. KnapSack Problem (Memorization)](32_knapsack_problem_mem.cpp)
+
+[33. KnapSack Problem (Tabulation)](33_knapsack_problem_tab.cpp)
+
+[34. KnapSack Problem (Space optimization - two vector)]()
+
+[35. KnapSack Problem (More Space optimization - one vector)]()
 <hr>
 
 <img src="img/Combination-Sum.png" alt="comSum" sizes="500" width="462" height="260">
 
-36. Combination Sum (Recursion)     -**[-Ques](https://www.codingninjas.com/studio/problems/number-of-ways_3755252?leftPanelTab=0)**
-37. Combination Sum (Memorization)
-38. Combination Sum (Tabulation)
+[36. Combination Sum (Recursion)](36_combination_sum_rec.cpp)     -**[-Ques](https://leetcode.com/problems/perfect-squares/submissions/1270166759/)**
+
+[37. Combination Sum (Memorization)](37_combination_sum_mem.cpp)
+
+[38. Combination Sum (Tabulation)](38_combination_sum_tab.cpp)
 
 <hr>
 
-39. Perfect Squares Problem (Recursion)   -**[-Ques](https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1)**
-40. Perfect Squares Problem (Memorization)
-41. Perfect Squares Problem (Tabulation)
-42. Perfect Cube Problem (Recursion)
+[39. Perfect Squares Problem (Recursion)](39_perfect_square_rec.cpp)   -**[-Ques](https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1)**
+
+[40. Perfect Squares Problem (Memorization)](40_perfect_square_mem.cpp)
+
+[41. Perfect Squares Problem (Tabulation)](41_perfect_square_tab.cpp)
+
+[42. Perfect Cube Problem (Recursion)](42_perfect_cude_rec.cpp)
 <hr>
 
 <img src="img/1_RwF_wiPqEdRWnEVfZX2GXA.png" alt="minCostTick" sizes="500" width="465" height="262">
 
-43. Minimum Cost for Tickets (Recursion)   -**[-Ques](https://www.codingninjas.com/studio/problems/minimum-coins_2180776?leftPanelTab=0)**
-44. Minimum Cost for Tickets (Memorization)
-45. Minimum Cost for Tickets (Tabulation)
-46. Minimum Cost for Tickets (Space optimization)
+[43. Minimum Cost for Tickets (Recursion)](43_min_cost_ticket_rec.cpp)   -**[-Ques](https://www.codingninjas.com/studio/problems/minimum-coins_2180776?leftPanelTab=0)**
+
+[44. Minimum Cost for Tickets (Memorization)](44_min_cost_ticket_mem.cpp)
+
+[45. Minimum Cost for Tickets (Tabulation)](45_min_cost_ticket_tab.cpp)
+
 <hr>
 
 <img src="img/Maximum-size-square-sub-matrix-with-all-1s-Example.jpg" sizes="500" alt="larSqMat" width="465" height="379">
 
-47. Largest Square area in Matrix (Recursion)   -**[-Ques](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1)**
-48. Largest Square area in Matrix (Memorization)
-49. Largest Square area in Matrix (Tabulation)
-50. Largest Square area in Matrix (Space optimization)
+[47. Largest Square area in Matrix (Recursion)](47_largest_square_in_matrix_rec.cpp)   -**[-Ques](https://leetcode.com/problems/maximal-square/)**
+
+[48. Largest Square area in Matrix (Memorization)](48_largest_square_in_matrix_mem.cpp)
+
+[49. Largest Square area in Matrix (Tabulation)](49_largest_square_in_matrix_tab.cpp)
+
+[50. Largest Square area in Matrix (Space optimization)](50_largest_square_in_matrix_opt.cpp)
+
 <hr>
 
 <img src="img/shape3.jpg" alt="poly" sizes="500"  width="400" height="250">
 
-51. Min Score Triangulation of Polygon (Recursion) -**[-Ques](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)**
-52. Min Score Triangulation of Polygon (Memorization)
-53. Min Score Triangulation of Polygon (Tabulation)
+[51. Min Score Triangulation of Polygon (Recursion)](51_min_score_triangle_rec.cpp) -**[-Ques](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)**
+
+[52. Min Score Triangulation of Polygon (Memorization)](52_min_score_triangle_mem.cpp)
+
+[53. Min Score Triangulation of Polygon (Tabulation)]()
 <hr>
 <img src="img/ic234-q3-ex3.png" alt="sideJump" sizes="500"  width="400" height="250">
 
